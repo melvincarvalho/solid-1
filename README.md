@@ -35,7 +35,7 @@ Specifically, Solid is:
   libraries (such as [solid.js](https://github.com/solid/solid.js)) that run on
   the Solid platform.
 * A community providing documentation, discussion (see the
-  [solid gitter channel](https://gitter.im/solid/solid)),
+  [solid gitter channel](https://gitter.im/solid/chat)),
   [tutorials](https://github.com/solid/solid#tutorials) and
   [talks/presentations](https://github.com/solid/talks).
 
@@ -68,7 +68,7 @@ please use the following workflow:
       [solid.js](https://github.com/solid/solid.js) library
     - [Solid Angular Apps Tutorial](https://github.com/solid/solid-tutorial-angular):
       a set of example apps built on the Solid platform using AngularJS.
-    - [Working with RDF data](https://github.com/solid/solid-tutorial-rdflib.js) tutorial about using a library called [rdflib.js](https://github.com/linkeddata/rdflib.js) 
+    - [Working with RDF data](https://github.com/solid/solid-tutorial-rdflib.js) tutorial about using a library called [rdflib.js](https://github.com/linkeddata/rdflib.js)
 
 
 - Implementing
